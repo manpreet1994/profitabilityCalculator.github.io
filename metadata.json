@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Profitability Calculator",
+  "description": "An interactive calculator to determine product pricing, costs, and profits based on various inputs. Adjust cost or pricing values to see how it affects the final outcome in real-time.",
+  "requestFramePermissions": []
+}
